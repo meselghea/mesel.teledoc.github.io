@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
-  basePath: '/mesel.teledoc.github.io',
+  basePath: '/gh-pages',
 }
 
 module.exports = nextConfig
